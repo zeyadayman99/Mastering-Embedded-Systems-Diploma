@@ -16,11 +16,11 @@ int main(){
 	else if(isalpha(ch) != 0){
 		printf("%c is an alphabet", ch);
 	}
-	another solution
-	if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
-        printf("%c is an alphabet.", ch);
-    else
-        printf("%c isn't an alphabet.", ch);
+	// another solution
+	// if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+    //     printf("%c is an alphabet.", ch);
+    // else
+    //     printf("%c isn't an alphabet.", ch);
 	return 0;
 }
 
