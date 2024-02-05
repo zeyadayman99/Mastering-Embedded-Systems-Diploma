@@ -11,10 +11,16 @@ int main(){
 //	isalpha() Return Value = 0 in case not Alphabet
 //	or return = any other number in case Alphabet
 	if(isalpha(ch) == 0){
-		printf("%c isn't alphabetic", ch);
+		printf("%c isn't an alphabet", ch);
 	}
 	else if(isalpha(ch) != 0){
-		printf("%c is alphabetic", ch);
+		printf("%c is an alphabet", ch);
 	}
+	another solution
+	if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+        printf("%c is an alphabet.", ch);
+    else
+        printf("%c isn't an alphabet.", ch);
+	return 0;
 }
 
