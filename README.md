@@ -1,2 +1,2 @@
-KS Embedded Systems Diploma
+kS Mastering Embedded Systems Diploma
 
