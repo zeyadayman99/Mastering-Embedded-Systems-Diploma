@@ -23,7 +23,7 @@ int main(){
 	printf("enter the location: ");
 	fflush(stdin);fflush(stdout);
 	scanf("%d", &location);
-	for(int i=array_size - 1;i >= location-1; i--)
+	for(int i = array_size - 1; i >= location-1; i--)
 		List[i+1] = List[i];
 	List[location-1] = new_element;
 	printf("\nnew list: \n");
