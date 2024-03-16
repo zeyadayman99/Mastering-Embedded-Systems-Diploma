@@ -1,3 +1,3 @@
-# **KS Mastering Embedded Systems Diploma**
+# **Eng/ Kerolous Shenouda Mastering Embedded Systems Diploma**
 
 
