@@ -7,9 +7,7 @@ int sum_of_digits (int num) {
 	for (int i = num; i > 0; i++) {
 		sum += (num%10);
 		num /= 10;
-
 	}
-
 	return sum;
 }
 int main() {
