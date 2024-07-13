@@ -1,3 +1,3 @@
-# **A Repository fro C-Language Exercices, Practice and Problem Solving**
+# **A Repository for C-Language Exercises, Practice and Problem Solving**
 
 
